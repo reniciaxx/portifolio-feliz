@@ -4,3 +4,10 @@ h2{
     font-size: 40px;
     text-shadow: 4px 4px 0 #000;
 }
+
+h3{
+    font-family: 'Press Start 2P' ;
+    color: hsl(0, 0%, 100%);
+    font-size: 30px;
+    text-shadow: 4px 4px 0 #000
+}
