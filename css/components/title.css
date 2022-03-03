@@ -1,12 +1,6 @@
-h2{
-    font-family: 'Press Start 2P' ;
-    color: #0f76c1;
-    font-size: 40px;
-    text-shadow: 4px 4px 0 #000;
-}
 
-h3{
-    font-family: 'Press Start 2P' ;
+h2{
+    font-family: 'Press Start 2P' sans-serif ;
     color: hsl(0, 0%, 100%);
     font-size: 30px;
     text-shadow: 4px 4px 0 #000

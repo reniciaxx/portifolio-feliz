@@ -12,6 +12,12 @@ h1{
     font-family: 'Press Start 2P', sans-serif ;
     color: white;
 }
+h2{
+    font-family: 'Press Start 2P' sans-serif ;
+    color: #0f76c1;
+    font-size: 40px;
+    text-shadow: 4px 4px 0 #000;
+}
 
 nav{
      text-align: right;    
@@ -64,7 +70,7 @@ a:before{
     align-items: center;
     display: flex;
     color: black;
-    
+
 }
 
 
