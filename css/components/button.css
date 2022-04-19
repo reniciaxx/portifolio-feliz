@@ -1,7 +1,8 @@
 .button {
+
     font-size: 20px;
     display: inline-block;
-    background-color: #3A4042;
+    background-color: rgb(235, 235, 36);
     box-shadow: 5px 5px 0 black;
     padding:  18px 20px;  
     margin-right: 0;  
@@ -12,6 +13,14 @@
 
 .button:hover {
     transform: scale(1.08);
+    flex-direction: column;
+    width: 640px;
 
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+    
 }
 
